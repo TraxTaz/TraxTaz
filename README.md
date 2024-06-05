@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Meda BenIssa
 
-![](https://komarev.com/ghpvc/?username=TraxTaz&color=red)
+![](https://komarev.com/ghpvc/?username=TraxTaz&color=purple)
 
 <!--
 **TraxTaz/TraxTaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
